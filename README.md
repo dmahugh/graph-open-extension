@@ -1,6 +1,6 @@
 # graph-open-extension
 
-Single-page web app demonstrating how to use the [openTypeExtension](https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/opentypeextension) feature of Microsoft Graph to store user preferences. The *color* setting is saved in an open extension attached to the current user's node in Graph.
+Single-page Python/Bottle web app demonstrating how to use the [openTypeExtension](https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/opentypeextension) feature of Microsoft Graph to store user preferences. The *color* setting is saved in an open extension attached to the current user's node in Graph.
 
 Start the server by running the extensibility.py program, then point a browser at [http://localhost:5000](http://localhost:5000). Click the Connect button to log in, and then you'll see a page with clickable tiles where you can select a favorite color:
 
@@ -24,7 +24,7 @@ To set up the environment to run this sample:
 * pip install requests-oauthlib
 * pip install bottle
 
-requests-oauthlib is used for OAuth2 authentication with Azure Active Directory, and bottle is used to stand up a simple demo app.
+requests-oauthlib is used for OAuth2 authentication with Azure Active Directory, and Bottle is used to stand up a simple demo app.
 
 To configure the sample:
 
