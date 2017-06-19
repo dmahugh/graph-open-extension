@@ -14,7 +14,7 @@ Here's an example after clicking the blue tile:
 
 ![blue example](readme/graphexplorer-blue.jpg)
 
-The setting is saved with the user's node in Graph, so it is persistent and can be made available whenever the user connects, from any device or application.
+The setting is saved with the user's node in Graph, so it is persistent and can be made available whenever the user connects, from any device or application. In this sample, the user will default to their saved preference if they've run the app before and selected a color.
 
 ## installation/configuration
 
