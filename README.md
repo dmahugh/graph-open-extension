@@ -21,10 +21,8 @@ The setting is saved with the user's node in Graph, so it is persistent and can 
 To set up the environment to run this sample:
 
 * install Python 3.x ([latest version](https://www.python.org/))
-* pip install requests-oauthlib
-* pip install bottle
-
-requests-oauthlib is used for OAuth2 authentication with Azure Active Directory, and Bottle is used to stand up a simple demo app.
+* ```pip install requests-oauthlib``` (OAuth2 library used for authentication)
+* ```pip install bottle``` (simple framework for web app)
 
 To configure the sample:
 
