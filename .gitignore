@@ -1,0 +1,12 @@
+# don't include these files
+_pyfind
+.pylintrc
+_todo.txt
+ae.bat
+auth_settings.txt
+
+# don't include these subfolders
+__pycache__/
+.vscode/
+archive/
+backups/

@@ -1,0 +1,34 @@
+﻿body {
+    padding-top: 10px;
+}
+
+.homepage-container {
+  width: 800px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+table.demo {
+  margin: 0 0 10px 0;
+  width: 100%;
+  display: table;
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  font-size: 14px;
+}
+
+table.demo th {
+  color: black;
+  text-align: right;
+  padding: 6px 12px;
+}
+
+table.demo td {
+  color: black;
+  padding: 6px 12px;
+  font-family: Consolas, "Courier-New", sans-serif;
+  white-space: nowrap;
+}
+
+img.colortile {
+  margin: 2px 20px 4px 0;
+}
